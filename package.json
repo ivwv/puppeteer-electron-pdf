@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-electron-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PdfUtils.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.5.0"
+  }
+}
